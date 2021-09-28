@@ -1,0 +1,38 @@
+{
+  "metaTitle": "bangHasan",
+  "metaDescription": "bangHasan Personal Profile",
+  "logoTitle": "@bangHasan",
+  "heroImage": "https://avatars.githubusercontent.com/u/5436959?v=4",
+  "heroCaption": "Keheningan adalah Inspirasi",
+  "social": {
+    "dev": "",
+    "dribbble": "",
+    "facebook": "",
+    "github": "https://github.com/banghasan",
+    "instagram": "https://instagram.com/hasanudinhs",
+    "linkedin": "https://www.linkedin.com/in/banghasan",
+    "pinterest": "",
+    "twitter": "https://twitter.com/hasanudinhs",
+    "youtube": "https://youtube.com/bangHasans",
+    "email": "banghasan@gmail.com"
+  },
+  "stats": {
+    "google": "",
+    "fathom": ""
+  },
+  "colors": {
+    "background": "",
+    "bodyText": "",
+    "navBar": "",
+    "navText": "",
+    "navTextHover": "",
+    "navTextBackgroundHover": "",
+    "heroCaption": "",
+    "btnBackground": "",
+    "btnBorder": "",
+    "btnHover": "",
+    "btnLink": "",
+    "svgColor": "",
+    "svgHover": ""
+  }
+}
