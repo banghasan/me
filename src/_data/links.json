@@ -4,11 +4,15 @@
     "text": "🙋🏽 Personal Website"
   },
   {
-    "url": "https://t.me/botindonesia",
-    "text": "@botindonesia"
-  },
-  {
     "url": "https://api.myquran.com",
     "text": "🕌 API Islamic myQuran"
+  },
+  {
+    "url": "https://git.banghasan.com",
+    "text": "🖥 Repo Internal"
+  },
+  {
+    "url": "https://t.me/botindonesia",
+    "text": "@botindonesia"
   }
 ]
