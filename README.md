@@ -1,5 +1,11 @@
 # About Me
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03e2d3c2-24ef-4c73-b166-ee59f6a820c4/deploy-status)](https://app.netlify.com/sites/banghasan/deploys)
+
+## Live
+
+[me.banghasan.com](https://me.banghasan.com)
+
 ## :wrench: Install and Deploy
 
 Install is standard and easy if you're familiar with [Node.js](https://nodejs.org/).  
@@ -133,4 +139,3 @@ Your new Page will then automatically show up in both the desktop and mobile Nav
 ## :page_facing_up: License
 
 This project is under the [MIT](LICENSE) license.
-Please adhere to the [code of conduct](.github/CODE_OF_CONDUCT.md).
